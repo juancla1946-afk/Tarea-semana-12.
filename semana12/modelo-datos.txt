@@ -1,0 +1,11 @@
+Causa: Manejo de plataforma interactiva 
+id: registro001
+titulo : Como manejar correctamente la plataforma
+descripcion : En este articulo se puede ver el paso a paso para manejar un uso correcto y apoyado frente a la plataforma que se esta solicitando para el manejo de datos y solicitudes de informacion 
+fecha :  12-07-26
+
+Apoyo : Plataforma recibiendo informacion y dando resultado a el manejo de la solicitud 
+id : Respuesta registro001 
+causa_id :
+nombre : Plataforma en ejecucion
+fecha : 12-07-26

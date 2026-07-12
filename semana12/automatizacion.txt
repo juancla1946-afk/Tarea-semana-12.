@@ -1,0 +1,5 @@
+Evento: Un usuario crea una nueva causa en la plataforma
+Mensaje: "Se ha creado una nueva causa" : Manejo de veedor en los recursos del parque-se permite ingresar la plataforma para esperar respuestas
+informacion que no debe enviarse por seguridad: -contraseñas
+-token de acceso 
+-claves de interaccion

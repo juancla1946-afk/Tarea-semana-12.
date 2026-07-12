@@ -1,0 +1,6 @@
+Paso a Paso
+1-El usuario crea su perfil en la pagina
+2-El usuario ingresa a su perfil
+3-El usuario complementa,y genera el seguimiento de su aporte
+4-El ususario puede recibir aportes y respuestas del sistema
+5-El sistema genera respuestas y envia informacion al usuario
